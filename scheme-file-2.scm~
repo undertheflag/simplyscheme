@@ -1,4 +1,4 @@
-(load "~/Documents/Scheme/PLT Scheme v372/berkeley/simply.scm")
+ (load "~/Documents/Scheme/PLT Scheme v372/berkeley/simply.scm")
 (load "~/Documents/Scheme/PLT Scheme v372/berkeley/functions.scm")
 
 (define (even n)
